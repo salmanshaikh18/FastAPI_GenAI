@@ -15,3 +15,5 @@ pip install -r requirement.txt
 
 uvicorn main:app --reload # Run the fast api server
 ```
+
+![Project 1](./project1.png)

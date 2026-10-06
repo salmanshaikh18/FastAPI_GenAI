@@ -29,3 +29,4 @@ uvicorn main:app --reload # Run the fast api server
 
 ```
 
+![Project 2](./project2.png)
